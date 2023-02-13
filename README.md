@@ -1,7 +1,7 @@
-# Leaflet Maps with Google Sheets
+# Parkville NRZ Parcels - generated from Leaflet Maps with Google Sheets
 
 ## Live links (replace with your own)
-- Leaflet Map https://handsondataviz.github.io/leaflet-maps-with-google-sheets/
+- Leaflet Map https://vasfalg.github.io/Parkville_NRZ_Parcels/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1WAAMS5uesfLxa188BpvRliIbiUz1UtCaElYo8PS_-ms/edit?usp=sharing
 
 ## Create your own
