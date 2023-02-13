@@ -1,4 +1,4 @@
-# Parkville NRZ Parcels - generated from Leaflet Maps with Google Sheets
+# Parkville NRZ Parcels
 
 ## Live links (replace with your own)
 - Leaflet Map https://vasfalg.github.io/Parkville_NRZ_Parcels/
