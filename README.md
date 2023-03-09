@@ -1,7 +1,7 @@
-# Parkville NRZ Parcels
+# Parkville's Top Landlords
 
 ## Live links (replace with your own)
-- Leaflet Map https://vasfalg.github.io/Parkville_NRZ_Parcels/
+- Leaflet Map https://vasfalg.github.io/Parkville_Top_Landlords/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1WAAMS5uesfLxa188BpvRliIbiUz1UtCaElYo8PS_-ms/edit?usp=sharing
 
 ## Create your own
